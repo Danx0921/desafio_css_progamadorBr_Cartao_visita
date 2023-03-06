@@ -1,0 +1,49 @@
+.conteudo{
+    width: 400px;
+    height: 200px;
+    background-image: url(/Imagens/backgorund.png);
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+
+
+.sapinho3d{
+    list-style-type: none;
+   list-style-image: url(Imagens/Insta.png);
+
+}
+#item2{
+
+    list-style-image: url(Imagens/Twitter.png);
+}
+
+#item3{
+    list-style-image:  url(/Imagens/Youtube.png);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    background-color: blue;
+}
+#item1x:hover{
+    background-color: blue;
+}
+
+#item1x:link{
+    background-color: blue;
+}
+
+#item1x:visited{
+    background-color: aqua;
+}
