@@ -2,8 +2,7 @@
     width: 400px;
     height: 200px;
     background-image: url(/Imagens/backgorund.png);
-    background-repeat: no-repeat;
-    background-color: aqua;
+    background-repeat: no-repeat;;
     background-size: cover;
     margin: auto;
     margin-top: 10%;
